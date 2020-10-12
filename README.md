@@ -22,7 +22,7 @@ The person who is reading HTML code,easily understand which
 [For Accessibility Standards](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 
 ## Screenshot
-![mainlayout](assets\images\screenshots.png)
+![mainlayout](assets/images/screenshots.png)
 
 ### Links
  [**URL OF My Github Repository**](https://github.com/nehreetkaur/semanticshomework)
