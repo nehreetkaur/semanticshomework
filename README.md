@@ -1,5 +1,5 @@
 # Description
-Given discriptive **Title** to my Application.
+Given discriptive **Title** to my HTML Document.
 Written HTML code with the use of **Semantics Tags** keeping in mind the **SEO Otimization** standards.Changed (divs)
 to **_Discriptive_**  **Semantic Tags**.
 
@@ -15,7 +15,7 @@ The person who is reading HTML code,easily understand which
 
 
 
-## Resources reffered
+## Resources referred
 
 [For semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)  
 
