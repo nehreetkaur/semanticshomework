@@ -1,7 +1,7 @@
 # Description
-Given discriptive **Title** to my HTML Document.
+Given discriptive **Title** to my HTML Document of Marketing Company.
 Written HTML code with the use of **Semantics Tags** keeping in mind the **SEO Otimization** standards.Changed (divs)
-to **_Discriptive_**  **Semantic Tags**.
+to **_Discriptive_**  **Semantic Tags**. Fixed **link** within the HTML page.
 
 ## Outcome
 Easily readable and understandable by the readers.
